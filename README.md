@@ -111,7 +111,54 @@ The tool implements a 0.5-second delay between requests to respect Coinbase API 
 
 This tool is for informational purposes only. Cryptocurrency trading carries significant risks, and past performance does not indicate future results. Always conduct your own research before making trading decisions.
 
+## License
+
+[Your chosen license]
 
 ## Contributing
 
 Feel free to open issues or submit pull requests with improvements.
+
+## Top Cryptocurrency Recommendations
+
+Our analysis focuses on three key aspects for each cryptocurrency:
+1. **Technical Analysis**: RSI, volume trends, and volatility patterns
+2. **Market Fundamentals**: Trading volume, market adoption, and liquidity
+3. **Project Development**: Active development, real-world use cases, and institutional adoption
+
+Based on these criteria, here are three promising cryptocurrencies to watch:
+
+### 1. Ethereum (ETH)
+- **Key Strengths**: 
+  - Leading smart contract platform
+  - Strong developer ecosystem
+  - Transition to Proof of Stake complete
+  - Growing institutional adoption
+- **Technical Indicators**:
+  - Healthy trading volume
+  - Strong support levels
+  - Increasing institutional interest
+
+### 2. Solana (SOL)
+- **Key Strengths**:
+  - High-performance blockchain
+  - Growing DeFi and NFT ecosystem
+  - Strong developer activity
+  - Improving network stability
+- **Technical Indicators**:
+  - Rising transaction volumes
+  - Increasing validator participation
+  - Strong recovery patterns
+
+### 3. Polygon (MATIC)
+- **Key Strengths**:
+  - Ethereum scaling solution
+  - Strong partnerships
+  - Growing enterprise adoption
+  - Active development community
+- **Technical Indicators**:
+  - Consistent volume growth
+  - Strong network metrics
+  - Sustainable growth patterns
+
+*Note: These recommendations are based on technical analysis and market research. Cryptocurrency investments carry significant risks. Always conduct your own research and consider your risk tolerance before making investment decisions.*
