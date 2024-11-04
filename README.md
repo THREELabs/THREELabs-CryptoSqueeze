@@ -111,9 +111,6 @@ The tool implements a 0.5-second delay between requests to respect Coinbase API 
 
 This tool is for informational purposes only. Cryptocurrency trading carries significant risks, and past performance does not indicate future results. Always conduct your own research before making trading decisions.
 
-## License
-
-[Your chosen license]
 
 ## Contributing
 
